@@ -18,7 +18,7 @@ body {
 h1 {
     font-size: 95px;
     font-weight: 700;
-    animation: h1-shadow 15s ease-in infinite;
+    animation: h1-shadow 15s linear infinite;
     padding: 30px;
     transform-style: preserve-3d;
     background-color: rgba(255, 255, 255, 0.199);
